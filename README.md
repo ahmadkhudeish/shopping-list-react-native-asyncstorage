@@ -19,8 +19,8 @@ To run the app you need multiple things:
 
 ## Images of the app
 
-![item list](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png)
+![item list](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png){:class="img-responsive"}
 
-![Add Item](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203969.png)
+![Add Item](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203969.png){:height="50%" width="50%"}
 
-![Edit Item](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203978.png)
+![Edit Item](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203978.png){:height="700px" width="400px"}
