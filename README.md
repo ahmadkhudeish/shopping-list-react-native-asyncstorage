@@ -17,15 +17,6 @@ To run the app you need multiple things:
 6.  Run the command `npm install` to install necessary node_modules
 7.  Once that is done, run the command `npm run android` to start the app packager and run the application
 
-## Images of the app
+## Screenshot of the app
 
-![item list](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png)
-
-![Add Item](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203969.png)
-
-![Edit Item](https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203978.png)
-
-.. image:: https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png
-:height: 300px
-:width: 200 px
-:scale: 50 %
+<img src="https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png" width="256" height="512" title="Shopping List">
