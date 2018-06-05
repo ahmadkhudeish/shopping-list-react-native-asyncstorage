@@ -19,4 +19,4 @@ To run the app you need multiple things:
 
 ## Screenshot of the app
 
-<img src="https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png" width="256" height="512" title="Shopping List">
+<img src="https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage/blob/master/Screenshot_1528203965.png" width="300" height="800" title="Shopping List">
