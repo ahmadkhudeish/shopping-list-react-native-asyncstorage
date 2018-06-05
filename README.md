@@ -14,5 +14,5 @@ To run the app you need multiple things:
 3.  Make sure the Emulator is running before starting the app
 4.  Open a new terminal window and run the command `git clone https://github.com/ahmadkhudeish/shopping-list-react-native-asyncstorage.git` to clone the repository into a directory inside your machine
 5.  Go inside this directory by running `cd shopping-list-react-native-asyncstorage/react-native-app`
-6.  Run the command `npm start` to start the meteor server
+6.  Run the command `npm install` to install necessary node_modules
 7.  Once that is done, run the command `npm run android` to start the app packager and run the application
